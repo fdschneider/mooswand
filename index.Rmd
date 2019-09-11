@@ -76,6 +76,12 @@ Moos eignet sich im Innen- und Außenbereich zur Verbesserung der Luftqualität.
 
 # Was sind die technischen Voraussetzungen für eine Mooswand?
 
+
+```{marginfigure}
+Alle Fotos und Texte © Kilian Lingen & Florian D. Schneider; für Anfragen zu Konzepterstellungen, Beratung und weitere Informationen: [e-mail](mailto:florian.dirk.schneider@gmail.com); Diese Projektseite ist Bestandteil der übergeordneten Webseite http://fdschneider.de.
+```
+
+
 Auch wenn Moose lange anhaltende Trockenheit gut überdauern können, ist eine aktive Bewässerung an den meisten Standorten für das Wachstum unerlässlich. Auch ohne Wasseranschluss ist das mit Rückführung des Abwassers und zusätzlicher Regenwassergewinnung lösbar. Im Winter muss die Anlage bei Frost abgeschaltet werden. Die Moose bekommen dann ohnehin genügend Feuchtigkeit aus der Luft. Im Innenbereich oder an überdachten Flächen kann eine künstliche Beleuchtung mit sparsamen LEDs nötig sein. In geschlossenen Räumen erhöht eine Mooswand die Luftfeuchtigkeit und muss an die Raumgröße und Belüftung angepasst sein. 
 
 
