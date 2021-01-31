@@ -26,16 +26,16 @@ knitr::include_graphics('assets/DSC_4309.JPG')
 
 
 ```{marginfigure}
-Dipl. Biol. Kilian Lingen hat zu vegetationsökologische Renaturierungsmaßnahmen geforscht. Er arbeitete in den vergangenen vier Jahren hauptberuflich an der technischen Entwicklung und Umsetzung von Meerwasser-Aquaristik-Anlagen und der Haltung und Anzucht von Korallen. Neuerdings baut er auch beruflich vertikale Gärten. 
+**Dipl. Biol. Kilian Lingen** ist Ökologe, wissenschaftlicher Mitarbeiter der HfWU Nürtingen-Geislingen und Mitarbeiter der Vertiko GmbH; Nach Diplomstudium zu vegetationsökologischen Renaturierungsmaßnahmen lehrte er für zwei Jahre an der TU Darmstadt in Form einer Dozentenstelle im Fachgebiet spezielle Botanik. Vier Jahre lang widmete er sich beruflich der technischen Entwicklung und Umsetzung von Meerwasser-Aquaristik-Anlagen und der Haltung und Anzucht von Korallen. Als Mitgründer von ‚Epiphytus‘ GbR arbeitete er an der Gestaltung von Wandgärten für die Innenraumbegrünung. Seit 2019 arbeitet er bei der Vertiko GmbH, einem Unternehmen für die Entwicklung und Umsetzung von vertikalen Begrünungskonzepten. Seit 2020 arbeitet er parallel als wissenschaftlicher Mitarbeiter an der Hochschule für Wirtschaft und Umwelt in Nürtingen - im Rahmen des VertiKKA Projektes an der Weiterentwicklung von Fassadenbegrünung in Kombination mit Grauwasser- und Photovoltaiknutzung. 
 ```
 ```{marginfigure}
-Dr. Florian D. Schneider hat in Darmstadt zu komplexen ökologischen Netzwerken promoviert. Er unterrichtet an der TU Darmstadt im interdisziplinären Studienschwerpunkt Wissenschafts- und Technikforschung und forscht zu Fragen der kulturellen und ökologischen Bewertung von biologischer Vielfalt.   http://www.fdschneider.de;     Twitter: [f_d_schneider](https://twitter.com/f_d_schneider);     Instagram: [fdschn](https://www.instagram.com/fdschn/)
+**Dr. Florian D. Schneider** ist Ökologe und Umweltwissenschaftler; Nach seiner Promotion an der TU Darmstadt zu komplexen ökologischen Netzwerken forschte er am CNRS Montpellier sowie am Senckenberg Biodiversität und Klima – Forschungszentrum in Frankfurt zur Stabilität von Ökosystemen unter menschlicher Nutzung. Er hat einen Lehrauftrag an der TU Darmstadt. Seit 2019 arbeitet er am [ISOE – Institut für Sozial-ökologische Forschung in Frankfurt](https://www.isoe.de) im Forschungsschwerpunkt Biodiversität und Bevölkerung. Dort beschäftigt er sich mit Fragen der kulturellen und ökologischen Bewertung von biologischer Vielfalt, insbesondere im Zusammenhang mit landwirtschaftlicher Nutzung und in urbanen Räumen.   http://www.fdschneider.de;     Twitter: [f_d_schneider](https://twitter.com/f_d_schneider);     Instagram: [fdschn](https://www.instagram.com/fdschn/)
 ```
 
 ```{marginfigure}
 Gemeinsam entwickeln sie vertikale Begrünungs-Konzepte zur Verbesserung von Luftqualität und Wohlbefinden. Die ökologisch-technischen Anwendungen basieren auf den Kreisläufen der Natur und funktionellen Aspekten der biologischen Vielfalt und erheben zugleich hohen Anspruch an Ästhetik und Raumempfinden. 
 
-Nach einer Idee der Initiative Essbares Darmstadt.
+Nach einer Idee der [Initiative Essbares Darmstadt](https://essbaresdarmstadt.de/2018/03/28/entwurf-fuer-den-gruenen-citytunnel/).
 ```
 
 # Warum vertikale Begrünung? 
@@ -68,11 +68,18 @@ knitr::include_graphics('assets/Moose.png')
 
 # Welche anderen Pflanzen wachsen in der Mooswand? 
 
-Wir haben verschiedene Farne und Blütenpflanzen in der Mooswand eingesetzt. Deren Blattstruktur bietet zusätzlichen Schutz vor Verdunstung und kann bei Regen sogar Wasser sich auch in der Natur den Lebensraum mit Moosen an wechselfeuchten Felswänden und am Stammablauf von Bäumen. 
+Wir haben verschiedene Farne und Blütenpflanzen in der Mooswand eingesetzt. Deren Blattstruktur bietet zusätzlichen Schutz vor Verdunstung und kann bei Regen sogar Wasser einfangen. Vor allem Farne wie der braune Streifenfarn, Tüpfelfarn und Hirschzungenfarn teilen sich auch in der Natur den Lebensraum mit Moosen an wechselfeuchten Felswänden und am Stammablauf von Bäumen. 
 
 # Wo kann Moos zur Luftreinigung eingesetzt werden? 
 
-Moos eignet sich im Innen- und Außenbereich zur Verbesserung der Luftqualität. Durch die flache Aufbautiefe können Moosmatten auch nah an der Schadstoffquelle, zum Beispiel an stark befahrenen Straßen, angebracht werden. Die Initiative Essbares Darmstadt hat den Vorschlag entwickelt, im Darmstädter Citytunnel mit Mooswänden zu experimentieren. Für Hauseigentümer bietet eine Fassadenbegrünung mit Moosen neben einer Verbesserung der Luftqualität auch eine zusätzliche Wärmedämmung des Gebäudes. Die Stadt Darmstadt fördert private Fassadenbegrünungen in manchen Stadtteilen auch finanziell. Auch in Büros oder Aufenthaltsräumen kann eine Mooswand trockene Luft oder Luftschadstoffe bekämpfen.
+```{marginfigure}
+Im Herbst 2019 haben die Biologen Kilian Lingen und Dr. Florian Schneider in Kooperation mit der Initiative ein umfassendes Konzeptpapier zur Umsetzung einer Tunnelbegrünung erarbeitet. ([hier als pdf](https://zenodo.org/record/4441904/files/konzept_citytunnel_darmstadt.pdf?download=1)) 
+```
+```{marginfigure}
+Lingen, K. & Schneider, F.D. (2021) Luftschadstoffreduzierende vertikale Begrünung für den Citytunnel Darmstadt, DOI: [10.5281/zenodo.4441904](https://doi.org/10.5281/zenodo.4441904)
+```
+
+Moos eignet sich im Innen- und Außenbereich zur Verbesserung der Luftqualität. Durch die flache Aufbautiefe können Moosmatten auch nah an der Schadstoffquelle, zum Beispiel an stark befahrenen Straßen, angebracht werden. Die [Initiative Essbares Darmstadt hat den Vorschlag entwickelt, im Darmstädter Citytunnel](https://essbaresdarmstadt.de/2018/03/28/entwurf-fuer-den-gruenen-citytunnel/) mit Mooswänden zu experimentieren. Für Hauseigentümer bietet eine Fassadenbegrünung mit Moosen neben einer Verbesserung der Luftqualität auch eine zusätzliche Wärmedämmung des Gebäudes. Die Stadt Darmstadt fördert private Fassadenbegrünungen in manchen Stadtteilen auch finanziell. Auch in Büros oder Aufenthaltsräumen kann eine Mooswand trockene Luft oder Luftschadstoffe bekämpfen.
 
 # Was sind die technischen Voraussetzungen für eine Mooswand?
 
